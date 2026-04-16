@@ -93,7 +93,12 @@ Key Insights:
 
 
 🛠 Tools Used
-Power BI Desktop
-Power Query (ETL)
-DAX (calculated measures & logic)
-Excel (data source)
+
+Power BI Desktop (dashboard development & visualization)
+
+Power Query (ETL & data transformation)
+
+DAX (calculated measures & business logic)
+
+Python (Pandas) (data cleaning, preprocessing & dataset structuring)
+Excel / CSV (data source)
